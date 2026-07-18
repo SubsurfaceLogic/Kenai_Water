@@ -1,0 +1,10 @@
+# Python environment and cache
+venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Environment variables (Never upload these!)
+.env
+
+# VS Code settings
+.vscode/
